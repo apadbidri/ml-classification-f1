@@ -1,8 +1,8 @@
 # ML Classification: Optimizing F1 Score in R
 
-This project involves building a binary classification model using synthetic data to predict a 0/1 outcome. The model was evaluated based on its **F1 score**, and implemented using R.
+This project involves building a binary classification model using synthetic data to predict a 0/1 outcome in R.
 
-> **Note:** The original dataset used in this project is not included due to academic integrity policies. Only simulated or placeholder data is used in this public repository.
+> **Note:** The original dataset used in this project is not included due to academic integrity policies.
 
 ---
 
